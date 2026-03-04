@@ -1,0 +1,5 @@
+{
+  "name": "Eco-Lead",
+  "description": "A platform for ecological leadership and sustainability tracking, integrated with Supabase and Groq AI.",
+  "requestFramePermissions": []
+}
